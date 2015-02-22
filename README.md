@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data Science Repo for Coursera Daa Science Toolbox
+Data Science Repo for Coursera Data Science Toolbox
